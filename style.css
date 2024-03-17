@@ -1,0 +1,7 @@
+.slow-load {
+  opacity: 0;
+}
+
+.show {
+  animation: fadeIn 1.5s forwards;
+}
